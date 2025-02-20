@@ -208,20 +208,5 @@ body {
 }
 ```
 
-## Como usar
 
-Para rodar a aplicação, siga os passos abaixo:
-
-1. Certifique-se de ter o Python e o Flask instalados.
-2. Navegue até o diretório do projeto.
-3. Execute o comando `python app.py`.
-4. Acesse `http://localhost:5000` no seu navegador.
-
-## Contribuindo
-
-Instruções sobre como contribuir para o projeto.
-
-## Licença
-
-Informações sobre a licença do projeto.
     
