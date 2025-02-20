@@ -81,7 +81,7 @@ def respostas_page():
     return render_template('respostas.html', respostas=respostas)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")
+    app.run(host="0.0.0.0", port=5000, debug=True)
 ```
 
 ### templates/home.html
